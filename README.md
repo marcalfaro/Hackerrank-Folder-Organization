@@ -1,6 +1,7 @@
 # Hackerrank-Folder-Organization
 
 **Hacker Rank Coding Challenge: Folder Organization**
+https://youtu.be/Cv9C9wUIKKs
 
 A web development project is being organized into several folders, and there are three rules that need to be followed:
 
